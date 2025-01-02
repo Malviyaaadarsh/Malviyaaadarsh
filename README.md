@@ -11,6 +11,8 @@ Hi, I am Aadarsh, a passionate engineering student pursuing a B.Tech in Computer
 * 🧠  I'm learning Gen AI , Python Libraries , Applications Of RAG in LLMs , Data Structures .
 * 🤝  I'm open to collaborating on Python Projects , Machine Learning Projects , AI Projects , Projects with Application of Algorithms .
 
+![Visitor Count](https://profile-counter.glitch.me/{Malviyaaadarsh}/count.svg)
+
 ### Skills
 
 
