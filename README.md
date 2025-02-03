@@ -32,7 +32,7 @@ Hi, I am Aadarsh, a passionate engineering student pursuing a B.Tech in Computer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Malviyaaadarsh&theme=panda&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
